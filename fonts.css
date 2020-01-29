@@ -5,3 +5,9 @@
   font-weight: 800;
   src: local('Abrade'), url(https://sk-agency.github.io/clearsmilesorthodontics/Abrade-ExtraBold.woff2) format('woff2');
 }
+@font-face {
+  font-family: 'Calibre';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Abrade'), url(https://sk-agency.github.io/clearsmilesorthodontics/calibre.woff2) format('woff2');
+}
